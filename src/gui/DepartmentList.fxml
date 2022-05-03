@@ -24,7 +24,7 @@
           <Button fx:id="btNew" mnemonicParsing="false" onAction="#onBtnewAction" text="New" />
         </items>
       </ToolBar>
-      <TableView fx:id="tableViewDepartment" prefHeight="200.0" prefWidth="200.0">
+      <TableView fx:id="tableViewDepartment" prefHeight="260.0" prefWidth="588.0">
         <columns>
           <TableColumn fx:id="tablecolumnID" prefWidth="45.0" text="ID" />
           <TableColumn fx:id="tablecolumnName" prefWidth="135.0" text="Name" />
